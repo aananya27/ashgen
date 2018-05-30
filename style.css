@@ -1,0 +1,23 @@
+
+
+body{
+    padding: 0 ;
+    margin: 20px auto ;
+    text-align: center;
+}
+
+  div.sticky {
+    /* position: -webkit-sticky; */
+    position: sticky;
+    top: 0;
+    background-color: rgb(247, 111, 186,0.72);
+  
+    padding: 50px;
+    font-size: 20px;
+   
+}
+
+div {
+  display: block;
+
+}
